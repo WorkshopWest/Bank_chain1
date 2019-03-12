@@ -1,0 +1,17 @@
+Bankchain design metadata
+
+Idea:
+A banking system to manage a bank chain, including common uses like transactions and database integration, administra-
+tion, security, messaging, payments services...
+
+
+
+Requirements:
+Contextual - interface with mobile pay, credit cards, db
+
+Internal - Handle multiple banks, users, administrators, statistics, security (2 factor authetification)
+
+Compatibility - desktop, mobile devices, web application
+
+Use cases:
+
